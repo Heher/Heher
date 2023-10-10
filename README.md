@@ -1,11 +1,13 @@
-### Hey! 🙋🏻‍♂️
+<h2>Hey! 🙋🏻‍♂️</h2>
 
-I'm a web developer by profession and coder/novice solderer of other stuff by hobby.
+<p>I'm a web developer by profession and coder/novice solderer of other stuff by hobby.</p>
 
-### Currently working on:
+<h3>Currently working on:</h3>
 
-- 🌎  [Traveling](https://www.johnheher.com/trip) to all Olympic sites.
-- 🔎 Breaking my brain getting into 3D development.
-- 💡 Automating things to ultimately allow me to be as lazy as possible (For as we know, that's is the American dream 🇺🇸🫡).
+<ul>
+  <li>🌎 <a href="https://www.johnheher.com/trip">Traveling</a> to all Olympic sites.</li>
+  <li>🔎 Breaking my brain getting into 3D development.</li>
+  <li>💡 Automating things to ultimately allow me to be as lazy as possible (For as we know, that's is the American dream 🇺🇸🫡).</li>
+</ul>
 
-If you're interested in those or looking for some development work, feel free to [email me](mailto:johnheher@gmail.com).
+<p>If you're interested in those or looking for some development work, feel free to <a href="mailto:johnheher@gmail.com">email me</a>.</p>
