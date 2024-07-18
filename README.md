@@ -2,6 +2,8 @@
 
 <p>I'm a web developer by profession and coder/novice solderer of other stuff by hobby.</p>
 
+<p>Creator of <a href="https://www.globedraft.com">GlobeDraft</a>: a place to compete against your friends in fantasy Olympics</p>
+
 <h3>Currently working on:</h3>
 
 <ul>
